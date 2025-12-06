@@ -4,7 +4,8 @@ Here’s an updated `README.md` with setup instructions for Ubuntu, Debian, Fedo
 
 # Bluetooth 6.17 DKMS Driver
 
-This repository provides a DKMS module for the Bluetooth 6.17 driver.
+This repository provides a DKMS module with patches for unsupported hardware such as the following below for Linux kernel version 6.17.
+- ID 0489:e112 Foxconn / Hon Hai Bluetooth Radio
 
 ## Installation
 
