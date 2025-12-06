@@ -49,5 +49,8 @@ sudo dkms install btusb/6.17
 sudo modprobe -r btusb
 sudo modprobe btusb
 ```
-
 ---
+#### Support for other hardware
+If you have hardware you would like supported please open an issue.
+---
+Thank you to https://github.com/jeremyb31/bluetooth-6.8 for teaching me how to patch.
